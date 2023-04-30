@@ -1,18 +1,18 @@
 # Setup
-title:               Digital Humanities Practicum
-tagline:             'MLL 774 - ENG 613 | University of Miami | Spring 2023'
-description:         'DH Practicum Spring 2023'
-url:                 https://susannalles.github.io
-baseurl:             '/DHPracticum_Spring23'
+title:               Mapping Shakespearean Adaptation in Asia
+tagline:             
+description:         2023 Digital Humanities Project
+url:                 https://austraea.github.io
+baseurl:             '/Mapping'
 paginate:            5
 permalink:           pretty
-github.repo:         https://github.com/susannalles/DHPracticum_Spring23 
+github.repo:         https://austraea/github.io
 
 # About/contact
 author:
-  name:              Susanna Allés Torrent
-  url:               https://twitter.com/sallesto
-  email:             susanna_allles@miami.edu
+  name:              Hyekyung Jung
+  url:               
+  email:             hxj240@miami.edu
 
 # Gems
 plugins:
