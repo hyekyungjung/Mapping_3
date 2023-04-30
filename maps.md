@@ -27,13 +27,14 @@ Japan's reception of Shakespeare impacted other Asian countries under Japan's co
 
 
 ### Shakespeare in China
-			<br>
-			<br>
+		
       
 		<iframe src="https://www.google.com/maps/d/u/0/embed?mid=18u7aPyW27i93N-XyFIkJsSrmyzTivO4&ehbc=2E312F" width="640" height="480"></iframe> 
-			<br>
-			<br>
-			<br>
-			<br>
+			
+ ## Shakespearean Adaptation in Asia
+ 
+ 
+ ## Reimagined and recreated Shakespearean Adaptation outside Asia
+ 
 			
      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1xcI93ViKJKswO8YSqp6_mdmhHoP04Y4&ehbc=2E312F" width="640" height="480"></iframe> 
