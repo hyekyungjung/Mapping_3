@@ -1,3 +1,3 @@
-# DH Practicum - Spring 2023 
+# Mapping Shakespearean Adaptation in Asia Project
 
-Repository for <https://susannalles.github.io/DHPracticum_Spring23/>
+Repository for <https://austraea.github.io/Mapping/>
