@@ -19,7 +19,6 @@ Japan was the first Asian country to accept Shakespeare in the nineteenth centur
 Shakespeare's plays began to be performed in 1879 when scene from The Taming of the Shrew was performed in English in the Gaiety Theatre in Yokohama. 
 </br>
 Japan's reception of Shakespeare impacted other Asian countries under Japan's colonialist movement. In 1903, Othello was performed as the outpost of the colonial Japanese empire in Taiwan, and Hamlet was performed in Korea by a Japanese shipa theatre company in 1909. 
-</br>
      
 ### Shakespeare in Korea
 
